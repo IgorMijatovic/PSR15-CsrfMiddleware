@@ -3,7 +3,6 @@ language: php
 php:
   - 7.0
 
-<<<<<<< HEAD
 matrix:
   allow_failures:
     - php: 7.2
